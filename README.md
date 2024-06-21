@@ -1,1 +1,2 @@
-All the skills and experiences along with the certifications #Certificates-
+# Certificates
+All the skills and experiences along with the certifications
